@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siding-contractor-louisville-ky.netlify.app/sitemap.xml
